@@ -3,20 +3,22 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
+footer: "ECL 2.0 Licensed | Copyright © 2024 Бариніна Аліна, Казак Вадим, Полтавський Володимир"
 ---
 
 
 **Виконали:** 
 
-*студенти [X]-го курсу, групи (шифр групи)* 
+*студенти 3-го курсу, групи ІО-13* 
 
-**[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+**Вадим Казак [vadymkazak2019@gmail.com](mailto:vadymkazak2019@gmail.com), [@sxlwrl](https://t.me/sxlwrl)**
 
-**[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+**Аліна Бариніна [alina00427@gmail.com](mailto:alina00427@gmail.com), [@aljolen](https://t.me/aljolen)**
+
+**Полтавський Володимир [whtspoint@gmail.com](mailto:whtspoint@gmail.com), [@WhtsPoint](https://t.me/WhtsPoint)**
 
 
-**Керівник**
+**Керівник:**
 
 *доцент кафедри ОТ ФІОТ, к.т.н., доцент*<span padding-right:5em></span> **Андрій БОЛДАК** 
 
